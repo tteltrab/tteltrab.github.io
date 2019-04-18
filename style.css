@@ -1,3 +1,5 @@
-h1 {
-  font-family: "Dokdo", cursive;
+h1,
+h2,
+p {
+  font-family: "Anton", cursive;
 }
